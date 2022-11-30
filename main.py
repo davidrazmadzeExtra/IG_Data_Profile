@@ -1,5 +1,4 @@
 import instaloader
-import pandas as pd
 
 # Creating an instance of the Instaloader class
 bot = instaloader.Instaloader()
